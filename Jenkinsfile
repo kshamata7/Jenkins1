@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('World') {
             steps {
-                echo 'Hello World'
+                echo 'Hello World from Jenkins1'
             }
         }
     stage('India') {
